@@ -1,6 +1,4 @@
-# project_innovation
-ScoreMe: A dating app for gamers (not hosted anymore)
+#saxion_project_innovation
+A concept for the New Year's Eve light show projected on the Grote Kerk in Enschede, Netherlands.
 
-Find your match, look at their rank, previous games and performance in your favourite games!
-
-Trailer: https://www.youtube.com/watch?v=AmC1Tn5JJes
+Show Demo: https://youtu.be/ry-lvrLc6IY
